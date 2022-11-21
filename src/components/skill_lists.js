@@ -9,6 +9,7 @@ import bootstrap from "../images/bootstrap.png";
 import git from "../images/git.png";
 import c from "../images/c.png";
 import cpp from "../images/cpp.png";
+import express from "../images/express.png"
 
 const skill_list = [
 
@@ -34,36 +35,41 @@ const skill_list = [
     },
     {
         id : 4,
+        name : "Express",
+        image :  express
+    },
+    {
+        id : 4,
         name : "NodeJS",
         image :  node
     },
     {
-        id : 5,
+        id : 6,
         name : "MongoDB",
         image :  mongodb
     },
     {
-        id : 6,
+        id : 7,
         name : "React",
         image :  react
     },
     {
-        id : 7,
+        id : 8,
         name : "Git",
         image :  git
     },
     {
-        id : 8,
+        id : 9,
         name : "GitHub",
         image :  github
     },
     {
-        id : 9,
+        id : 10,
         name : "C",
         image :  c
     },
     {
-        id : 10,
+        id : 11,
         name : "C++",
         image :  cpp
     }

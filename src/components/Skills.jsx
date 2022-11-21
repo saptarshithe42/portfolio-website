@@ -7,8 +7,8 @@ function Skills() {
         <div className="container-fluid skills-container">
             <div className="container-fluid" >
                 <div>
-                    <h1>My Skills</h1>
-                    <p>These are the various technologies I have worked with</p>
+                    <h1 className="skills-heading">My Skills</h1>
+                    <p className="skill-desc">These are the various technologies I have worked with</p>
                 </div>
                 <div className="row skills">
                     {
