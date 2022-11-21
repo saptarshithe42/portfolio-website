@@ -44,6 +44,7 @@ code {
 
 .profile-heading {
   font-family: 'Caveat', cursive;
+  font-size: 4rem;
 }
 
 .profile-img{
@@ -110,6 +111,7 @@ code {
 
 .skills-heading{
   font-family: 'Caveat', cursive;
+  font-size: 4rem;
 }
 
 .skill-desc{
@@ -166,5 +168,21 @@ code {
     font-family: 'Caveat', cursive;
     font-size: 3rem;
   }
+
+  .skills-heading{
+    font-family: 'Caveat', cursive;
+    font-size: 4rem;
+  }
+
+  .profile-heading {
+    font-family: 'Caveat', cursive;
+    font-size: 4rem;
+  }
+
+  .skill-icon
+{
+  width: 100%;
+  object-fit: contain;
+}
   
 }
