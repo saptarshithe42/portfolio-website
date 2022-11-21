@@ -108,6 +108,15 @@ code {
   margin-bottom: 1rem;
 }
 
+.skills-heading{
+  font-family: 'Caveat', cursive;
+}
+
+.skill-desc{
+  font-size: 1.3rem;
+  font-family: 'Source Code Pro', monospace;
+}
+
 .skills
 {
   text-align: center;
@@ -149,4 +158,13 @@ code {
   text-align: center;
   /* font-size: 1.5rem; */
   font-size: 120%;
+}
+
+@media (max-width : 500px) {
+
+  .name-heading{
+    font-family: 'Caveat', cursive;
+    font-size: 3rem;
+  }
+  
 }
