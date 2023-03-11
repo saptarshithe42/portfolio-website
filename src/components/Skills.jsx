@@ -12,10 +12,10 @@ function Skills() {
                 </div>
                 <div className="row skills">
                     {
-                        skill_list.map((skillItem) => {
+                        skill_list.map((skillItem, index) => {
                             return (
 
-                                <div className="col-6 col-sm-3 skill-icon-div rounded-4 m-sm-2">
+                                <div className="col-6 col-sm-3 skill-icon-div rounded-4 m-sm-2" key={index}>
                                     <img className="skill-icon" src={skillItem.image} alt="" />
                                     <p className="skill-name">{skillItem.name}</p>
                                 </div>

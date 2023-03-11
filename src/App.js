@@ -3,7 +3,7 @@ import Introduction from './components/Introduction';
 import Profiles from './components/Profiles';
 import Skills from './components/Skills';
 
-
+import "./App.css"
 
 function App() {
   return (

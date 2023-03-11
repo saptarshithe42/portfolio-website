@@ -14,10 +14,10 @@ function Profiles() {
                 </div>
                 <div className="row profiles">
                     {
-                        profile_links.map((profileItem) => {
+                        profile_links.map((profileItem, index) => {
                             return (
-                                <div className="col-12 col-md-4 profile-icon-div">
-                                    <a href={profileItem.url} class="btn btn-outline-primary btn-lg" style={{ color: "white" }} target="_blank"> {profileItem.icon} {profileItem.name} </a>
+                                <div className="col-12 col-md-4 profile-icon-div" key={index}>
+                                    <a href={profileItem.url} className="btn btn-outline-primary btn-lg" style={{ color: "white" }} target="_blank"> {profileItem.icon} {profileItem.name} </a>
                                 </div>
                             )
                         })
