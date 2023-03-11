@@ -10,6 +10,7 @@ import git from "../images/git.png";
 import c from "../images/c.png";
 import cpp from "../images/cpp.png";
 import express from "../images/express.png"
+import firebase from "../images/firebase.png"
 
 const skill_list = [
 
@@ -55,24 +56,30 @@ const skill_list = [
     },
     {
         id : 8,
+        name : "firebase",
+        image :  firebase
+    },
+    {
+        id : 9,
         name : "Git",
         image :  git
     },
     {
-        id : 9,
+        id : 10,
         name : "GitHub",
         image :  github
     },
     {
-        id : 10,
+        id : 11,
         name : "C",
         image :  c
     },
     {
-        id : 11,
+        id : 12,
         name : "C++",
         image :  cpp
-    }
+    },
+    
 
 ]
 
