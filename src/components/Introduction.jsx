@@ -17,7 +17,7 @@ function Introduction() {
                         <a href={"mailto:saptarshi.the.42@gmail.com"} className="btn btn-outline-primary btn-lg" style={{ color: "white" }} target="_blank">Email : saptarshi.the.42@gmail.com </a>
                     </p>
                 </div>
-                <div class="col-12 col-xl-6 profile-pic-div">
+                <div className="col-12 col-xl-6 profile-pic-div">
                     <img className="profile-img" src={profile_img} alt="" />
                 </div>
             </div>

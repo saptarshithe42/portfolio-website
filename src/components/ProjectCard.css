@@ -1,0 +1,24 @@
+.project-card{
+    width: 18rem;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 25px;
+    margin : 1.2rem;
+    color: black;
+}
+
+.project-card .card-img {
+
+    width: 15rem;
+    height: 15rem;
+    border-radius: 25px;
+
+}
+
+.project-link-buttons-container{
+    display: flex;
+    justify-content: space-between;
+}
+.project-card .card-title{
+    margin : 1rem;
+}

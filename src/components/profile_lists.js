@@ -7,19 +7,19 @@ const profile_links = [
         id : 0,
         name : "GitHub",
         url : "https://github.com/saptarshithe42",
-        icon : <i class="fa-brands fa-github"></i>
+        icon : <i className="fa-brands fa-github"></i>
     },
     {
         id : 1,
         name : "LinkedIn",
         url : "https://www.linkedin.com/in/saptarshi-mondal-520b10231/",
-        icon : <i class="fa-brands fa-linkedin"></i>
+        icon : <i className="fa-brands fa-linkedin"></i>
     },
     {
         id : 2,
         name : "LeetCode",
         url : "https://leetcode.com/saptarshithe42/",
-        icon : <i class="cib-leetcode"></i>
+        icon : <i className="cib-leetcode"></i>
     }
 ]
 

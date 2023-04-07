@@ -161,6 +161,19 @@
     /* font-size: 1.5rem; */
     font-size: 120%;
   }
+
+  .project-section{
+    margin-top: 5rem;
+    text-align: center;
+    color: white;
+  }
+
+  .project-heading{
+    font-family: 'Caveat', cursive;
+    font-size: 4rem;
+  }
+
+  
   
   @media (max-width : 500px) {
   
