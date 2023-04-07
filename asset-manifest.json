@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.f6fa7ebb.css",
-    "main.js": "/portfolio-website/static/js/main.52feeb33.js",
+    "main.css": "/portfolio-website/static/css/main.311fbfaf.css",
+    "main.js": "/portfolio-website/static/js/main.e9338723.js",
+    "static/media/course_mart_img.png": "/portfolio-website/static/media/course_mart_img.549c9a9da977bd1607c8.png",
+    "static/media/elibrary_img.png": "/portfolio-website/static/media/elibrary_img.9464101181f22dabead8.png",
+    "static/media/exam_ease_img.png": "/portfolio-website/static/media/exam_ease_img.a4fe46a71698e18bbbba.png",
     "static/media/cpp.png": "/portfolio-website/static/media/cpp.64f637357bce0ccc8384.png",
     "static/media/firebase.png": "/portfolio-website/static/media/firebase.ce5d87a009b9fcc80bdb.png",
     "static/media/mongodb.png": "/portfolio-website/static/media/mongodb.95ebe78cca60e67709b4.png",
@@ -16,11 +19,11 @@
     "static/media/javascript.png": "/portfolio-website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/logo.svg": "/portfolio-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio-website/index.html",
-    "main.f6fa7ebb.css.map": "/portfolio-website/static/css/main.f6fa7ebb.css.map",
-    "main.52feeb33.js.map": "/portfolio-website/static/js/main.52feeb33.js.map"
+    "main.311fbfaf.css.map": "/portfolio-website/static/css/main.311fbfaf.css.map",
+    "main.e9338723.js.map": "/portfolio-website/static/js/main.e9338723.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6fa7ebb.css",
-    "static/js/main.52feeb33.js"
+    "static/css/main.311fbfaf.css",
+    "static/js/main.e9338723.js"
   ]
 }
