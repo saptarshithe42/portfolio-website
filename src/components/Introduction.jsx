@@ -11,7 +11,7 @@ function Introduction() {
                     <h1 className="name-heading">Hi! I am Saptarshi Mondal</h1>
                     <p className="about">
                         I am a Computer Science And Engineering Student from Jadavpur University, West Bengal, India. I am interested in exploring and working with new technologies.
-                        Currently I am working on my Web Development skills with the MERN stack. I am also looking forward to mobile application development, field of machine learning and AI and many others. Currently I am in the Second year of my four year BE course.
+                        Currently I am working on my Web Development skills with the MERN stack. I am also looking forward to mobile application development, devops and many others. Currently I am in the Third year of my four year BE course.
                         <br/>
                         <br />
                         <a href={"mailto:saptarshi.the.42@gmail.com"} className="btn btn-outline-primary btn-lg" style={{ color: "white" }} target="_blank">Email : saptarshi.the.42@gmail.com </a>
