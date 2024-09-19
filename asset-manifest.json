@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.311fbfaf.css",
-    "main.js": "/portfolio-website/static/js/main.e9338723.js",
+    "main.js": "/portfolio-website/static/js/main.d3b42455.js",
     "static/media/course_mart_img.png": "/portfolio-website/static/media/course_mart_img.549c9a9da977bd1607c8.png",
     "static/media/elibrary_img.png": "/portfolio-website/static/media/elibrary_img.9464101181f22dabead8.png",
     "static/media/exam_ease_img.png": "/portfolio-website/static/media/exam_ease_img.a4fe46a71698e18bbbba.png",
@@ -20,10 +20,10 @@
     "static/media/logo.svg": "/portfolio-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio-website/index.html",
     "main.311fbfaf.css.map": "/portfolio-website/static/css/main.311fbfaf.css.map",
-    "main.e9338723.js.map": "/portfolio-website/static/js/main.e9338723.js.map"
+    "main.d3b42455.js.map": "/portfolio-website/static/js/main.d3b42455.js.map"
   },
   "entrypoints": [
     "static/css/main.311fbfaf.css",
-    "static/js/main.e9338723.js"
+    "static/js/main.d3b42455.js"
   ]
 }
