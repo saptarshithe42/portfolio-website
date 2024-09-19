@@ -9,66 +9,87 @@ import bootstrap from "../images/bootstrap.png";
 import git from "../images/git.png";
 import c from "../images/c.png";
 import cpp from "../images/cpp.png";
-import express from "../images/express.png"
-import firebase from "../images/firebase.png"
+import express from "../images/express.png";
+import firebase from "../images/firebase.png";
+import gcp from "../images/gcp.png";
+import docker from "../images/docker.png";
+import kubernetes from "../images/kubernetes.png";
+import typescript from "../images/typescript.png";
+import terraform from "../images/terraform.png";
 
 const skill_list = [
-
     {
-        name : "HTML",
-        image :  html
+        name: "GCP",
+        image: gcp,
     },
     {
-        name : "CSS",
-        image :  css
+        name: "Docker",
+        image: docker,
     },
     {
-        name : "JavaScript",
-        image :  javascript
+        name: "Kubernetes",
+        image: kubernetes,
     },
     {
-        name : "BootStrap",
-        image :  bootstrap
+        name: "Terraform",
+        image: terraform,
     },
     {
-        name : "Express",
-        image :  express
+        name: "HTML",
+        image: html,
     },
     {
-        name : "NodeJS",
-        image :  node
+        name: "CSS",
+        image: css,
     },
     {
-        name : "MongoDB",
-        image :  mongodb
+        name: "JavaScript",
+        image: javascript,
     },
     {
-        name : "React",
-        image :  react
+        name: "TypeScript",
+        image: typescript,
     },
     {
-        name : "firebase",
-        image :  firebase
+        name: "BootStrap",
+        image: bootstrap,
     },
     {
-        name : "Git",
-        image :  git
+        name: "Express",
+        image: express,
     },
     {
-        name : "GitHub",
-        image :  github
+        name: "NodeJS",
+        image: node,
     },
     {
-        name : "C",
-        image :  c
+        name: "MongoDB",
+        image: mongodb,
     },
     {
-        name : "C++",
-        image :  cpp
+        name: "React",
+        image: react,
     },
-    
-
-]
+    {
+        name: "firebase",
+        image: firebase,
+    },
+    {
+        name: "Git",
+        image: git,
+    },
+    {
+        name: "GitHub",
+        image: github,
+    },
+    {
+        name: "C",
+        image: c,
+    },
+    {
+        name: "C++",
+        image: cpp,
+    },
+];
 
 export default skill_list;
-

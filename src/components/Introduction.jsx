@@ -1,5 +1,5 @@
 import React from "react";
-import profile_img from "../images/profile_pic.jfif";
+import profile_img from "../images/profile_picture.jpeg";
 
 function Introduction() {
     return (
@@ -10,12 +10,11 @@ function Introduction() {
                     <p className="about">
                         I am a Computer Science And Engineering Student from
                         Jadavpur University, West Bengal, India. I am interested
-                        in exploring and working with new technologies.
-                        Currently I am working on my Web Development skills with
-                        the MERN stack. I am also looking forward to mobile
-                        application development, devops and many others.
-                        Currently I am in the Final year of my four year BE
-                        course.
+                        in exploring and working with new technologies. I have
+                        mostly worked with Web Development Technologies. I am
+                        also looking forward to mobile application development,
+                        DevOps and many others. Currently I am in the Final year
+                        of my four year B.E. course.
                         <br />
                         <br />
                         <a

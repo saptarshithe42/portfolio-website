@@ -1,0 +1,16 @@
+.experience-card {
+    width: 18rem;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 25px;
+    margin: 1.2rem;
+    color: black;
+}
+
+.experience-card-body {
+
+    font-weight: 800;
+    text-align: left;
+    margin-top: 1rem;
+
+}
